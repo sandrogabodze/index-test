@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    margin: auto;
+}
+
+.photo1 {
+    background-image: url("2018-1\ 1.png");
+    width: 435px;
+    width: 33.33%;
+    height: 254px;
+    position: absolute;
+    z-index: 2;
+
+}
+
+.photo2 {
+    background-image: url("opengraph\ 1.png");
+    width: 558px ;
+    width: 36.33%; 
+    height: 254px;
+    position:absolute;
+    z-index: 1;
+    left: 371px;
+    
+
+}
+
+.photo3 {
+    background-image:url("Tomorrowland-mainstage\ 1.png") ;
+    width: 421px;
+    width: 36.67%;
+    height: 254px;
+    position: absolute;
+    z-index: 3;
+    left: 859px;
+     
+    
+    
+}
+
+p {
+    color: #FFFFFF;
+    position: absolute;
+    z-index: 5;
+    text-align: center;
+    left: 391px;
+    top: 170px;
+    font-weight: 700;
+}
+
